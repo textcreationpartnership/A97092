@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The royall entertainment of the King, by the Royalists of Huntington. Being a true relation of the great joy of that town at his comming, with their bountifull gifts to welcome him thither. Also his tender care of them exprest by proclamation to keep them free from plunder; and his extraordinary favour and mercy in setting all the prisoners free. Together with the great lamentation of the inhabitants at his departure. Sent in a letter by a person of credit, to a gentleman of worth in London.</title>
+            <author>J. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97092</idno>
+            <idno type="STC">Wing W68</idno>
+            <idno type="STC">Thomason E298_26</idno>
+            <idno type="STC">ESTC R200241</idno>
+            <idno type="EEBO-CITATION">99861047</idno>
+            <idno type="PROQUEST">99861047</idno>
+            <idno type="VID">113174</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97092)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113174)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 49:E298[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The royall entertainment of the King, by the Royalists of Huntington. Being a true relation of the great joy of that town at his comming, with their bountifull gifts to welcome him thither. Also his tender care of them exprest by proclamation to keep them free from plunder; and his extraordinary favour and mercy in setting all the prisoners free. Together with the great lamentation of the inhabitants at his departure. Sent in a letter by a person of credit, to a gentleman of worth in London.</title>
+                  <author>J. W.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Macock.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A person of credit = J.W., who has signed page 8.</note>
+                  <note>Anti-Royalist.</note>
+                  <note>Annotation on Thomason copy: "Septemb: 1st".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Huntingdon (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113174:1" rendition="simple:additions"/>
+            <p>THE Royall Entertainment of the <hi>KING,</hi> by the <hi>ROYALISTS</hi> OF HUNTINGTON.</p>
+            <p>Being a true <hi>Relation</hi> of the great Joy of that Town at his comming, with their bountifull Gifts to welcome him thither.</p>
+            <p>Alſo his tender care of them expreſt by Proclamation to keep them free from Plunder; and his extraordinary Favour and Mercy in ſetting all the Priſoners Free.</p>
+            <p>Together with the great Lamentation of the Inha<g ref="char:EOLhyphen"/>bitants at his departure.</p>
+            <p>Sent in a <hi>Letter</hi> by a perſon of Credit, to a Gentleman of worth in LONDON.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Macock.</hi> 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:113174:2"/>
+            <pb n="3" facs="tcp:113174:2"/>
+            <head>THE True Coppy of a Letter Sent by one of Credit, to a Gen<g ref="char:EOLhyphen"/>tleman of worth in LONDON.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>I Gave you an Accompt yeſterday, of ſome paſſages of the Kings flying Army in theſe parts, and of his Advance from <hi>Huntington</hi> occaſioned ſo ſuddenly as we conceive partly by the neere approach of the Scots horſe and ſome others, who are now upon the pur<g ref="char:EOLhyphen"/>ſuite of him, and are croſſed the Country by <hi>Northamp<g ref="char:EOLhyphen"/>ton</hi> to head him before he goes too farre Weſtward; there alſo joyned from <hi>Warwicke, Stafford, Northamton,</hi> and <hi>Newport,</hi> the laſt night about 1000. horſe, who were in his Van and hope to halt him till the Scots come neerer; I came with ſome other friends this Afternoon to <hi>Huntington,</hi> where we found the whole <hi>Towne,</hi> for<g ref="char:EOLhyphen"/>merly notorious for malignancy, turned quite round in the ſpace of three dayes: In which I thinke good to give you likewiſe ſome further accompt.</p>
+            <p>His Majeſtie on Sabbath day about five a Clock in the
+<pb n="4" facs="tcp:113174:3"/>Afternoone entred the Towne; and with much comple<g ref="char:EOLhyphen"/>mentall hatting and bowing ſaluted all his good friends as he rode through the ſtreets, who was entertained by them with reciprocall expeſſions of Joy, and ſuch Accla<g ref="char:EOLhyphen"/>mations and Whoopings, as have not beene heard in place.</p>
+            <p>The Mayor of <hi>Huntington,</hi> and two Bailiffes of <hi>God<g ref="char:EOLhyphen"/>mancheſter</hi> a towne thereunto adjoyning, and their bre<g ref="char:EOLhyphen"/>thren preſently, as a further acknowledgement of their de<g ref="char:EOLhyphen"/>light to ſee him, taxed the ſaid Townes at 5. ſhil. 10. ſhil. 15. ſhil. a man, (meane men) and others at farre higher rates, and preſented his Majeſtie therewith in Lumpe; which Mayor, Bailiffes, and 43. others of his brethren [moſt Royaliſts] for their loving expreſſion, are carried Priſoners along with the Army; as alſo ma<g ref="char:EOLhyphen"/>ny others both Towneſmen and others fetch out of the Country, [and that knowne friends to them] to ranſome themſelves by money; being ſet on their heads from 20. <abbr>l.</abbr> to 300. <abbr>l.</abbr> a peice. Preſently after the K. came in, procla<g ref="char:EOLhyphen"/>mation was made: That on paine of death no Souldier ſhould plunder, and that full ſatisfaction ſhould be made to any who complained of ſuch grievances; To put it to tryall; no ſooner was it made, but they fell to plunder, carrying out of divers ſhops and houſes, 3. and 4. loads of goods and wares a peece, amongſt many, Mr. <hi>Fulwood</hi> an Apothecary, and the two M. <hi>Kings,</hi> Woollen Drapers can witneſſe it truth, not leaving them one bitt of houſeholdſtuffe in their houſes, or wares in their ſhops; all which they cary along with them in their march. Every houſe was billited, though never ſo poor, ſome 20, or 30. in a houſe, who was by ſpeciall order to
+<pb n="5" facs="tcp:113174:3"/>provide both horſe meat and mans meat, and XII pence a day to each Souldier to ſpend, which was duly paied, though the poore creatures [by fearefull oathes and God dammees to be piſtoled] preſently were forced to borrow from houſe to houſe as many ſcores did; and this was ge<g ref="char:EOLhyphen"/>nerall through the towne: our<note n="*" place="margin">At the Angell in <hi>Godmanch.</hi>
+               </note> Inkeeper that you know a ſtrong Royaliſt where Major <hi>Mountaine</hi> quarterd, made proviſion for him and 40. more, of the beſt he could get, and that in plenty; the firſt ſupper they drunk 3. <abbr>l.</abbr> in wine; his men fetching it out by paile-fulls, and freely bidden ſo to do by the owner, and welcome all the while; yet for two dayes together the poore Man walkt in hourely danger of his life, upon their pretence of not ſer<g ref="char:EOLhyphen"/>viceableneſſe enough to them; and at their parting, after almoſt 6. ſcore pound eaten and drunke by horſe and man; forced him to borrow 42. ſhil. to pay each Soul<g ref="char:EOLhyphen"/>dier XII. pence or elſe they would carry him with them. Beſides this he having but 10. ſheep other ſouldiers fetch in 8. of them, and eate them at other houſes; the other 2. he was fain to give 2. of his owne billiters 6. pence a peece to fetch them into his houſe to be killed for them, [in reguard all his owne people were buſie] which they accordingly did, but when brought, forced the Inkeeper to give them 10. ſhil. for the ſheepe claiming them as there owne, now they had them in poſſeſſion, and glad he was ſo to pleaſe them, and preſently dreſt them for them. In many quarters the ſouldiers fetch in ſheepe of other-mens and made the Landlord pay them 4. and 5. ſhil. a peece for them to dreſſe them for their uſe, or elſe ſwore they would ſpit their children.</p>
+            <p>Many houſes plundered to nothing, ſo that Tables,
+<pb n="6" facs="tcp:113174:4"/>ſtooles, bedſteads and other combuſtiable things lye bro<g ref="char:EOLhyphen"/>ken in every roome, after the bedding, linnen, pewte, and portable things carryed out; very many people are not left worth one penny, and of their beſt friends: At their parting they drove away both <hi>Huntington</hi> and <hi>Godman-cheſter</hi> herds of Kine, about 6. or 700. and made them pay 13. ſhil. 4. pence, for every head before they had them againe.</p>
+            <p>They have left ſcarce a horſe in either Town, nor in any other they Marched thorough or neer: ſo that there is lamentable complaining in the Country not knowing how to get in their Corne yet out, both men and women being very buſie in fetching in that which lies neer the Town, on their backs.</p>
+            <p>After great ſums have been taxed and payed in by ſe<g ref="char:EOLhyphen"/>verall Towns, all their horſes have been fetcht away, and many perſons plundred. One very tyrannicall expreſ<g ref="char:EOLhyphen"/>ſion towards an honeſt man in <hi>Godmanchester,</hi> of 73. years of age, one <hi>John Robince,</hi> a man far in debt, of whom they demanded 300. <abbr>l.</abbr> not being able to pay it, they tyed lighted Matches between all his fingers, and burnt him exceedingly, then tyed his neck and heels together and ſo let him lye all night in his Barne, after that they had ſo cruſht him that the blood ſprung out of his noſe and mouth to his almoſt ſtrangling, the next morning they hung him up by the heels on a balke, put lighted Match behind his eares, to his cheekes, and to his privi<g ref="char:EOLhyphen"/>ties, which brought the old man almoſt ſenſeleſſe. Yet notwithſtanding all this have they carried him away with them in great extremity of pain, taking mournfull leave of his wife and ſix children at the doore, by pray<g ref="char:EOLhyphen"/>ing
+<pb n="7" facs="tcp:113174:4"/>God to bleſſe her and them, and deſiring her to bring them up in the fear of God and the like: and ſo without expectation of ever ſeeing each other they de<g ref="char:EOLhyphen"/>parted: this is moſt true: as by the Teſtimony of all his Neighbours, many whereof were witneſſes to all paſſages. So his poor wife with much griefe and teares declared it to my ſelfe. Some others they put ropes about their necks threatning to hang, if they provided not ſo much money as they impoſed. It is marvelous to ſee how all Malignants are changed in Iudgement: ſaying, they expected to have found the King and his Army Saints, who have ſo often proteſted to maintain Religion and their Liberties; but they ſwear now they are more like devils that come out of hell, then any ſort of men, and vowing while they are worth a groat to joyne with the Parliament to ſuppreſſe them.</p>
+            <p>They have knockt off all the Irons of all the Fellons, and other priſoners in <hi>Huntington</hi> Goale, which were very many, and condemned men in Law, for groſſe Rob<g ref="char:EOLhyphen"/>beries and Murthers; who have all taken up Armes for his Majeſty. <hi>This is maintenance of Law.</hi>
+            </p>
+            <p>Colonell <hi>Gerard</hi> in the preſence of many honeſt men did here openly profeſſe, That the Parliament go about to take the Crown and kingdome from the King, but they would take ſuch a courſe before they had done with it, that it ſhould be left ſcarſe worth having; and farther wiſhed, That the eſtate which he had in <hi>England</hi> was all of a fire, for things would never be well till it came to that.</p>
+            <p>The King, to pleaſe the Country, after many thouſand pounds worth of goods ſent away without any check, and
+<pb n="8" facs="tcp:113174:5"/>many men undone, cauſed lots to be caſt between foure, who had pillaged a poor Glover in the Town, (one <hi>Gim<g ref="char:EOLhyphen"/>ber</hi>) of about 5. ſhillings, and one to be hanged therefore: And at his departure gave the Town and Country great thanks for their kind entertainment of him, and forward<g ref="char:EOLhyphen"/>neſſe to ſhew their readineſſe to ſerve him, [which they will not be ſo forward to do the next time he comes.] One Providence is obſervable, That divers of the beſt af<g ref="char:EOLhyphen"/>fected to the Parliament, in and about <hi>Huntington,</hi> have ſcaped with leaſt loſſe, and many of the Kings beſt friends have ſuffered moſt in their perſons and eſtates. You may Recommend theſe Obſervations to as many as you pleaſe, being all truthes in every particular; ſo I remain</p>
+            <closer>
+               <signed>
+                  <hi>Your Loving Friend,</hi> &amp;c. J. W.</signed>
+               <dateline>Hunt. <date>27. Aug. 1645.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>We are purſuing the Reere with 1000. horſe and Dra<g ref="char:EOLhyphen"/>goones, from <hi>Cambridge</hi> and the <hi>Aſſociation.</hi>
+               </p>
+               <p>
+                  <hi>I think it not amiſſe if you put this letter into ſome better form, and being made ſhorter it be Printed ſpeedily, to ſatisfie ſome Malignants with you. It being in every particular true, and in hast written.</hi>
+               </p>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="printers_note">
+            <p>Let the Reader take notice the Printer hath not varied one word from the Letter, but onely added the Title Page.</p>
+            <p>
+               <hi>Publiſhed according to Order.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
